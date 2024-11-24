@@ -1,0 +1,12 @@
+##[pylyzer] succeed e:\mypythonfolder\everybodycodes\quest2\p1.py 1731470023 344
+.f: File!
+.first_line: Str
+.first_line: Str
+.runes: List(Str, _: Nat)
+.words: List(Str, _: Nat)
+
+
+.total: {0}
+
+
+

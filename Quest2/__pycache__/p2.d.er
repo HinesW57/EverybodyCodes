@@ -1,0 +1,3 @@
+##[pylyzer] failed e:\mypythonfolder\everybodycodes\quest2\p2.py 1732251940 1662
+.count_runes: (runes: Iterable(Never), inscriptions: Iterable(Structural({.find = (self: Never, Obj, Obj) -> Int}))) -> Never
+
